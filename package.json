@@ -1,0 +1,11 @@
+{
+  "name": "ganache-v7-forking-issue-repro",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "ethers": "^5.5.3",
+    "ganache": "^7.0.0"
+  }
+}
